@@ -12,6 +12,7 @@
 - [Go 언어](#Go-언어)
 - [스타트업](#스타트업)
 - [Electron](#Electron)
+- [etc](#etc)
 
 ## 유튜브 영상
 
@@ -57,3 +58,7 @@
 ### Electron
 
 - [앱 만들고 싶다면 이것 부터 하세요. 10분컷.](https://youtu.be/6Ep8ot0ABH0) / 2022.03.27
+
+### etc
+
+- [XX코딩 교육기관 출신 우대, 취업시장에 새로운 허들이 될까?](https://youtu.be/qdX47ySzzb0) / 22.03.29
