@@ -33,6 +33,8 @@
 
 ### 성장
 
+- [객체지향 프로그래밍? 문과도 이해쌉가능. 10분컷.](https://youtu.be/cg1xvFy1JQQ) / 2022.04.10
+- [연봉이 떡상한다고? 함수형 프로그래밍! 10분만에 이해하기.](https://youtu.be/7aEQLvvnQIY) / 2022.03.20
 - [비전공자가 SOCAR에 다니기까지 │ 데이터엔지니어 │ 성장환경의 중요성](https://youtu.be/hJsScM1FCBc) / 2021.12.14
 - [코드 리뷰 잘 하는법 (ft. 개발자랑 일 잘하는 치트키)](https://youtu.be/VaaRvs8YU1M) / 2021.02.21
 - [깃. 깃허브. 기초개념 잡아드림. 5분 순삭.](https://youtu.be/YFNQwo7iTNc) / 2019.09.21
