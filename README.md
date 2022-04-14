@@ -12,6 +12,7 @@
 - [Go 언어](#Go-언어)
 - [스타트업](#스타트업)
 - [Electron](#Electron)
+- [AWS](#AWS)
 - [etc](#etc)
 
 ## 유튜브 영상
@@ -68,6 +69,10 @@
 ### Electron
 
 - [앱 만들고 싶다면 이것 부터 하세요. 10분컷.](https://youtu.be/6Ep8ot0ABH0) / 2022.03.27
+
+### AWS
+
+- [AWS Amplify 로 리얼타임 앱 만들기. 10분컷!](https://youtu.be/o7FkmtqIYOE) / 2022.04.14
 
 ### etc
 
