@@ -76,4 +76,5 @@
 
 ### etc
 
+- [기술 좋좋스가 되지 않기위한 생각들](https://youtu.be/qQRpzuKk0aU) / 22.04.05
 - [XX코딩 교육기관 출신 우대, 취업시장에 새로운 허들이 될까?](https://youtu.be/qdX47ySzzb0) / 22.03.29
