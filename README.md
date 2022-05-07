@@ -30,6 +30,7 @@
 
 ### 프론트엔드
 
+- [내가 자바스크립트를 쓰지 않는 이유?](https://youtu.be/8YIwaO6Cojw) / 2022.05.01
 - [자바스크립트 애니매이션 라이브러리 5개 (짱 유용함👍)](https://youtu.be/wbDpZwDRgRk) / 2022.04.12
 - [졸업도 안 한 스타트업 개발자가 네카라로 이직? (전 LINE 프론트 엔지니어 인터뷰)](https://youtu.be/J3VedF5OJuY) / 2022.03.31
 - [개발자 99%가 모르는 신박한 HTML 태그 5개!](https://youtu.be/EMOlLLTAZMs) / 2022.01.16
